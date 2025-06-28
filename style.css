@@ -121,3 +121,8 @@ a:hover, .nav-link:hover {
 #about .col-md-8 {
   text-align: center;
 }
+.text-warning {
+  color: #facc15 !important;
+  text-shadow: 0 2px 8px #0005;
+  text-decoration: none;
+}
